@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nabeeltariqbhatti/nabeeltariqbhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer and trying to become an appreciable problem solver. Putting my hours to achieve the level of excellence.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✒️ Good judgment comes from experience, and experience comes from bad judgment.
+   --Frederick P. Brooks
+   
+   
+✒️If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  --Edsger Dijkstra
+  
+  Living the life with coding❤️
+- 🔭 I’m currently working on PHP/Laravel and MERN
+- 🌱 I’m trying to become proficient in coding and logic building 
+- 👯 I’m looking to collaborate with the people who discuss solutions and try hard to hit the mark they envisioned of.   
