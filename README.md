@@ -11,6 +11,5 @@ I am a Software Engineer and trying to become an appreciable problem solver. Put
   --Edsger Dijkstra
   
   Living the life with coding❤️
-- 🔭 I’m currently working on PHP/Laravel and MERN
-- 🌱 I’m trying to become proficient in coding and logic building 
-- 👯 I’m looking to collaborate with the people who discuss solutions and try hard to hit the mark they envisioned of.   
+  
+ 👯 I’m looking to collaborate with the people who discuss solutions and try hard to hit the mark they envisioned of.   
